@@ -1,5 +1,3 @@
-<img src='assets/NHSEnglandLogoHighRes.jpeg' width='200'>
-
 This is the organisational github account for NHS England. 
 See [NHS England's](https://www.england.nhs.uk/) website for 
 information about who we are and our work.
