@@ -6,7 +6,7 @@ information about who we are and our work.
 We aim for github to be used to support collaborative and open 
 work for both development and analytics.  Please see the pinned 
 repositories to read the set [ways of working](https://github.com/nhsengland/github-WoW) in github for NHS 
-England and for IT Standards assocaited with open development.
+England and for IT Standards associated with open development.
 
 
 Read our Code of Conduct for contributions [Here](https://github.com/nhsengland/.github/blob/main/CODE_OF_CODUCT.md)
