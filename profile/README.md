@@ -14,4 +14,4 @@ Read our Code of Conduct for contributions [Here](https://github.com/nhsengland/
 ### Contacts:
 To raise an issue around github usage, security concerns, 
 information governance concerns, or to request a new member to 
-join this github organisation please contact [github@england.nhs.uk](github@england.nhs.uk)
+join this github organisation please contact [github@england.nhs.uk](github@england.nhs.uk) & copy in [jonathanpearson@nhs.net](jonathanpearson@nhs.net)
