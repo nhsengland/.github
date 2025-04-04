@@ -19,6 +19,7 @@ We have a small set of related organisation accounts in github which may contain
 - [nhsengland](https://github.com/nhsengland) - one of our two main organisation accounts used for our collaborative development.
 - [nhsdigital](https://github.com/nhsdigital) - one of our two main organisation accounts used for our collaborative development
 - [nhs-england-tools](https://github.com/nhs-england-tools) - tools to promote best engineering practices and a uniform architecture
+- [NHSE-NDRS](https://github.com/orgs/NHSE-NDRS/repositories) - code (mostly R) supporting the national disease registration service
 - [nhsconnect](https://github.com/nhsconnect) - tools and code for interacting with NHS open APIs
 - [nhsuk](https://github.com/nhsuk) - tools and resources for www.nhs.uk
 - [111Online](https://github.com/111Online) - resources relating to the NHS 111 online service
